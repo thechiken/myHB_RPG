@@ -6,7 +6,7 @@
 - Перевод листов персонажей и банд
 - Дополнительные примечания и примеры
 
-[Правила игры](index)
+[Правила игры](HomeBrew)
 [Листы персонажей и банд](https://bit.ly/blades-ru)
 [GitHub](https://github.com/thechiken/myHB_RPG)
 
