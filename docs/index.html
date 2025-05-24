@@ -15,6 +15,11 @@
     window.$docsify = {
       name: 'HomeBrew in RPG',
       loadSidebar: true,
+      alias: {
+      '/_history/*': { 
+        loadSidebar: false // Отключаем для страниц из /no-sidebar-folder/
+      }
+    },
       subMaxLevel: 2,
       auto2top: true,
       // homepage   : 'HomeBrew.md',
