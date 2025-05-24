@@ -14,13 +14,10 @@
   <script>
     window.$docsify = {
       name: 'HomeBrew in RPG',
-      //loadSidebar: true,
-      routes: {
-      '/_history/*': {
-        loadSidebar: false // Отключаем для этой папки
-      },
-      '*': {
-        loadSidebar: true // Для всех остальных
+      loadSidebar: true,
+      alias: {
+      '/_history/*': { 
+        loadSidebar: false // Отключаем для страниц из /no-sidebar-folder/
       }
     },
       subMaxLevel: 2,
