@@ -1,0 +1,36 @@
+# myHB_RPG configuration file
+
+wikmd_host: "0.0.0.0"
+wikmd_port: 5000
+wikmd_logging: 1
+wikmd_logging_file: "myHB_RPG.log"
+
+git_user: "myHB_RPG"
+git_email: "myHB_RPG@no-mail.com"
+
+main_branch_name: "main"
+sync_with_remote: 0
+remote_url: ""
+
+wiki_directory: "wiki"
+wiki_title: "Wiki"
+homepage: "homepage.md"
+homepage_title: "homepage"
+images_route: "img"
+image_allowed_mime: ["image/gif", "image/jpeg", "image/png", "image/svg+xml", "image/webp"]
+hide_folder_in_wiki: [".obsidian"]
+
+plugins: ["draw", "alerts", "mermaid", "embed-pages", "swagger", "plantuml"]
+plantuml_server_url: "https://www.plantuml.com/plantuml"
+
+protect_edit_by_password: 0
+password_in_sha_256: "0E9C700FAB2D5B03B0581D080E74A2D7428758FC82BD423824C6C11D6A7F155E" #ps: wikmd 
+
+local_mode: false
+
+optimize_images: "no"
+
+cache_dir: "/dev/shm/wikmd/cache"
+search_dir: "/dev/shm/wikmd/searchindex"
+
+secret_key: '\xfd{H\xe5<\x95\xf9\xe3\x96.5\xd1\x01O<!\xd5\xa2\xa0\x9fR"\xa1\xa8'
