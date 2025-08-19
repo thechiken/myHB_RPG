@@ -1,0 +1,133 @@
+@import "wiki.colors.css";
+
+body {
+    background-color: var(--bg-light);
+    color: var(--txt-light);
+}
+
+.modal-content {
+    background-color: var(--bg-modal-light);
+    color: var(--txt-light);
+}
+
+blockquote {
+    padding: 5px 50px;
+    margin-left: 0px;
+    border-left: 4px solid var(--quotes-color);
+    background-color: var(--bg-codeblock-light);
+}
+
+blockquote p{
+    margin-top:10px;
+    font-weight: 300;
+}
+
+code, pre {
+    font-family: monospace;
+    background-color: var(--bg-codeblock-light);
+    color: #800;
+    border-radius: 5px;
+    padding: 4px;
+    font-size: 14px
+}
+
+pre {
+    background-color: var(--bg-codeblock-light);
+    padding: 6px;
+    border-radius: 6px;
+    position: relative;
+}
+
+pre img {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  margin-top: 5px;
+  margin-right: 5px;
+  padding: 0.15rem;
+  cursor: pointer;
+  display: inline;
+}
+
+img {
+    max-width: 100%
+}
+
+figure {
+    text-align: center
+}
+
+.container-fluid {
+    padding-right: 0;
+    padding-left: 0;
+}
+
+.hljs {
+    background-color: var(--bg-codeblock-light);
+}
+
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin: 10px 0px;
+}
+
+th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: left;
+    border-bottom: 2px solid #dee2e6;
+}
+
+td {
+    padding: 12px;
+    border-top: 1px solid #dee2e6;
+}
+
+h1{
+    font-size: 2em;
+    font-family: "quicksand";
+}
+
+h1.title{
+    font-size: 2.5em;
+    font-family: "Helvetica";
+}
+
+h2 {
+    font-size: 1.8em;
+    font-family: "quicksand";
+}
+
+h3 {
+    font-size: 1.5em;
+    font-family: "quicksand";
+}
+
+
+h4{
+    font-size: 1.3em;
+    font-family: "quicksand";
+}
+
+
+.alert i[class^="bi-"]{
+    font-size: 1.5em;
+    line-height: 1;
+    margin-right: 10px;
+  }
+
+div.html-integration{
+  background-color: var(--html-integration-background-light);
+  padding: 20px;
+}
+
+
+.mermaid {
+    text-align: center;
+}
+
+.footnote-back {
+    margin-left: 0.5em;
+}
