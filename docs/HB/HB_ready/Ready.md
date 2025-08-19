@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Принято к игре
-nav_order: 3
+nav_order: 1
 parent: HomeBrew
 has_children: true
 ---

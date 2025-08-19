@@ -1,7 +1,7 @@
 ---
 layout: default
 title: На рассмотрение
-nav_order: 3
+nav_order: 2
 parent: HomeBrew
 has_children: true
 ---
