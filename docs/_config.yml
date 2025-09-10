@@ -1,3 +1,6 @@
+plugins:
+  - jekyll-polyglot
+
 languages: ["en", "ru"]
 default_lang: "ru"
 exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
