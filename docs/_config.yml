@@ -1,12 +1,3 @@
-plugins:
-  - jekyll-polyglot
-
-languages: ["en", "ru"]
-default_lang: "ru"
-exclude_from_localization: ["javascript", "images", "css", "public", "sitemap"]
-parallel_localization: false
-url: thechiken.github.io
-
 remote_theme: pmarsceill/just-the-docs
 
 # Site settings
