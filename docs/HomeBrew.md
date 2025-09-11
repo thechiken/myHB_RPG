@@ -3,10 +3,12 @@ layout: default
 title: HomeBrew
 nav_order: 3
 has_children: true
+has_toc: false
 ---
 
 ## HomeBrew в игре
 * Принято к игре
+    - ["NEW" Захват и Толчок бонусным действием](/HB/HB_ready/Захват_Толчок.md)
     - [Броски предметов или существ](/HB/HB_ready/Броски_предметов.md)
     - [Бросок существа](/HB/HB_ready/Бросок_существа.md)
     - [Грузоподъемность: Простой](/HB/HB_ready/Грузоподъемность.md)
