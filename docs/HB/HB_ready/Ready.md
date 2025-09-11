@@ -4,6 +4,7 @@ title: Принято к игре
 nav_order: 1
 parent: HomeBrew
 has_children: true
+has_toc: false
 ---
 # Принято к игре
 - [Броски предметов или существ](Броски_предметов.md)

@@ -4,6 +4,7 @@ title: Отправлено в утиль
 nav_order: 3
 parent: HomeBrew
 has_children: true
+has_toc: false
 ---
 # Утиль
 - [3 сек до заявки](3_сек_до_заявки.md)

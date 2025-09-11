@@ -4,6 +4,7 @@ title: На рассмотрение
 nav_order: 2
 parent: HomeBrew
 has_children: true
+has_toc: false
 ---
 # На рассмотрение
 - ["NEW" Бастионы](Бастионы.md)
