@@ -39,6 +39,7 @@ search:
 
 # Color scheme supports "light" (default) and "dark"
 color_scheme: dark
+has_toc: false
 
 # Back to top link
 back_to_top: true
