@@ -6,9 +6,14 @@ parent: HomeBrew
 has_children: true
 has_toc: false
 ---
+<style>
+   .letter {
+    color: red; /* Цвет символа */
+   } 
+  </style>
 # На рассмотрение
-- ["NEW" Бастионы](Бастионы.md)
-- ["NEW" Поломка снаряжения](Поломка_снаряжения.md)
+- <span class="letter">"NEW"</span> [Бастионы](Бастионы.md)
+- <span class="letter">"NEW"</span> [Поломка снаряжения](Поломка_снаряжения.md)
 - [Безумие](Безумие.md)
 - [Болезнь](Болезнь.md)
 - [Инструменты](Инструменты.md)
