@@ -5,10 +5,14 @@ nav_order: 3
 has_children: true
 has_toc: false
 ---
-
+<style>
+   .letter {
+    color: red; /* Цвет символа */
+   } 
+  </style>
 ## HomeBrew в игре
 * Принято к игре
-    - <font> <font color="#ff0000">"NEW"</font> [Захват и Толчок бонусным действием](/HB/HB_ready/Захват_Толчок.md)</font>
+    - <span class="letter">"NEW"</span> [Захват и Толчок бонусным действием](/HB/HB_ready/Захват_Толчок.md)
     - [Броски предметов или существ](/HB/HB_ready/Броски_предметов.md)
     - [Бросок существа](/HB/HB_ready/Бросок_существа.md)
     - [Грузоподъемность: Простой](/HB/HB_ready/Грузоподъемность.md)
