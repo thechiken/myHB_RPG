@@ -34,8 +34,8 @@ has_toc: false
     - [Усложнение дикой магии](/HB/HB_ready/Усложнение_дикой_магии.md)
 
 * На рассмотрение
-    - ["NEW" Бастионы](/HB/HB_waiting/Бастионы.md)
-    - ["NEW" Поломка снаряжения](/HB/HB_waiting/Поломка_снаряжения.md)
+    - <span class="letter">"NEW"</span> [Бастионы](/HB/HB_waiting/Бастионы.md)
+    - <span class="letter">"NEW"</span> [Поломка снаряжения](/HB/HB_waiting/Поломка_снаряжения.md)
     - [Безумие](/HB/HB_waiting/Безумие.md)
     - [Болезнь](/HB/HB_waiting/Болезнь.md)
     - [Инструменты](/HB/HB_waiting/Инструменты.md)
