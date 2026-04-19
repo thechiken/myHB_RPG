@@ -12,7 +12,8 @@ has_toc: false
   </style>
 ## HomeBrew в игре
 * Принято к игре
-    - <span class="letter">"NEW"</span> [Захват и Толчок бонусным действием](/HB/HB_ready/Захват_Толчок.md)
+    - <span class="letter">"NEW"</span> [Бастионы](/HB/HB_ready/Бастионы.md)
+    - [Захват и Толчок бонусным действием](/HB/HB_ready/Захват_Толчок.md)
     - [Броски предметов или существ](/HB/HB_ready/Броски_предметов.md)
     - [Бросок существа](/HB/HB_ready/Бросок_существа.md)
     - [Грузоподъемность: Простой](/HB/HB_ready/Грузоподъемность.md)
@@ -34,7 +35,6 @@ has_toc: false
     - [Усложнение дикой магии](/HB/HB_ready/Усложнение_дикой_магии.md)
 
 * На рассмотрение
-    - <span class="letter">"NEW"</span> [Бастионы](/HB/HB_waiting/Бастионы.md)
     - <span class="letter">"NEW"</span> [Поломка снаряжения](/HB/HB_waiting/Поломка_снаряжения.md)
     - [Безумие](/HB/HB_waiting/Безумие.md)
     - [Болезнь](/HB/HB_waiting/Болезнь.md)
